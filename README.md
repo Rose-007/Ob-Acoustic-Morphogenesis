@@ -73,3 +73,8 @@ Stage: Discovery Record (Timestamp + Origin Preservation)
 
 This is not the end of the work.  
 This is the moment it becomes visible to the world.
+
+---
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbhudhose%2Fposts%2Fpfbid027cJf947riEgdAwYDH7TiSW6Dc2ArqZtjKpjQB8sns3sA5D8emdRJwyFz7QWd9LLVl&show_text=true&width=500" width="500" height="449" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
